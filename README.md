@@ -32,3 +32,5 @@ After a while the Company Portal will show the app
 ![Screenshot Intune TeamViewer](images/intune_teamviewer.png)
 
 
+[Another Example with FileZilla](https://www.robinhobo.com/how-to-deploy-win32-applications-with-microsoft-intune/)
+
