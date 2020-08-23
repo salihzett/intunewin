@@ -11,9 +11,9 @@ Example and manage Windows Apps (.intunewin) with Intune
 ### Creating intunewin app
 * Start Powershell and clone the Win32 App Managment repo
 * Start the application `.\IntuneWinAppUtil.exe` and follow the points:
-  * `Please specify the source folder: C:\Users\SalihZengin\Desktop`
+  * `Please specify the source folder: C:\Users\SalihZett\Desktop`
   * `Please specify the setup file: TeamViewer_Setup.exe`
-  * `Please specify the output folder: C:\Users\SalihZengin\Desktop`
+  * `Please specify the output folder: C:\Users\SalihZett\Desktop`
   * `Do you want to specify catalog folder (Y/N)? N`
 * You will end up with this file `TeamViewer_Setup.intunewin`
 
